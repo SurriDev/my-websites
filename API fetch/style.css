@@ -1,0 +1,24 @@
+#pokemonName {
+    font-size: 2.5rem;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: hsl(0, 0%, 90%);
+}
+button {
+    font-size: 2rem;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: hsl(200, 100%, 50%);
+    cursor: pointer;
+}
+button:hover {
+    background-color: hsl(200, 100%, 45%);
+    font-size: 2.1rem;
+}
+#myh1 {
+    font-family: Arial;
+}
